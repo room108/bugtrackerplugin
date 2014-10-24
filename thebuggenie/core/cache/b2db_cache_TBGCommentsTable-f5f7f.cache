@@ -1,0 +1,1 @@
+a:3:{s:6:"entity";s:10:"TBGComment";s:4:"name";s:8:"comments";s:13:"discriminator";a:2:{s:6:"column";s:20:"comments.target_type";s:14:"discriminators";a:2:{s:8:"TBGIssue";i:1;s:10:"TBGArticle";i:2;}}}
